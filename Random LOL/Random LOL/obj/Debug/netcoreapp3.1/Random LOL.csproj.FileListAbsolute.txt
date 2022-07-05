@@ -1,0 +1,32 @@
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.exe
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.deps.json
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.runtimeconfig.json
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.runtimeconfig.dev.json
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.dll
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.pdb
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.dll
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.pdb
+C:\Users\Ahmed\Desktop\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.genruntimeconfig.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.exe
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.deps.json
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.runtimeconfig.json
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.runtimeconfig.dev.json
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.dll
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Random LOL.pdb
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.csproj.AssemblyReference.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.AssemblyInfo.cs
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.csproj.CopyComplete
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.dll
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.pdb
+C:\Users\Ahmed\Desktop\IUT\CODES\LOL VS\Random LOL\Random LOL\obj\Debug\netcoreapp3.1\Random LOL.genruntimeconfig.cache
